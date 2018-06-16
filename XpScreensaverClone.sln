@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpScreensaverClone", "XpScreensaverClone.csproj", "{2022B692-9246-4794-AA73-8F0ADCD26FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71762193-D901-4D8F-B96F-220AE2B235ED}"
+	ProjectSection(SolutionItems) = preProject
+		ResTempl1.res = ResTempl1.res
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2022B692-9246-4794-AA73-8F0ADCD26FAD}.Debug|x86.ActiveCfg = Debug|x86
+		{2022B692-9246-4794-AA73-8F0ADCD26FAD}.Debug|x86.Build.0 = Debug|x86
+		{2022B692-9246-4794-AA73-8F0ADCD26FAD}.Release|x86.ActiveCfg = Release|x86
+		{2022B692-9246-4794-AA73-8F0ADCD26FAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF513FAE-ABD4-458C-B7C8-C2CCD34BF7EC}
+	EndGlobalSection
+EndGlobal
